@@ -8,3 +8,11 @@ Using external api to fetch movies data and display effects. User can search for
 ![](Movies/images/mainPage.png)
 
 ![](Movies/images/searched.png)
+
+
+# Cups
+Using JS and CSS with HTML to create animation about filling the cups
+ 
+![](Cups/images/litres_0.png)
+![](Cups/images/litres_75.png)
+![](Cups/images/litres_full.png)
