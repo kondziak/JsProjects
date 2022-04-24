@@ -20,5 +20,4 @@ Using JS and CSS with HTML to create animation about filling the cups
 # Todo List
 List where user writes their Todo chores
  
-![](Todo_List/images/todos_1.png)
 ![](Todo_List/images/todos_2.png)
