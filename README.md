@@ -21,3 +21,9 @@ Using JS and CSS with HTML to create animation about filling the cups
 List where user writes their Todo chores
  
 ![](Todo_List/images/todos_2.png)
+
+# Quiz
+ Quiz app built by using json data
+ 
+![](Quiz/images/question.png)
+![](Quiz/images/reload.png)
